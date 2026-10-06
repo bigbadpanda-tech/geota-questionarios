@@ -1,0 +1,47 @@
+name: "🐛 Reportar um problema / Report a problem"
+description: "Algo não está a funcionar como esperado / Something is not working as expected"
+labels: ["bug"]
+body:
+  - type: dropdown
+    id: component
+    attributes:
+      label: "Onde aconteceu? / Where did it happen?"
+      options:
+        - "App móvel / Mobile app"
+        - "Dashboard"
+        - "Não sei / Not sure"
+    validations:
+      required: true
+  - type: textarea
+    id: goal
+    attributes:
+      label: "O que estava a tentar fazer? / What were you trying to do?"
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: "O que aconteceu? / What happened?"
+      description: "E o que esperava que acontecesse? / And what did you expect to happen?"
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: "Como se repete? / How can it be repeated?"
+      description: "Os passos que deu, um a um. / The steps you took, one by one."
+      placeholder: "1. ...\n2. ...\n3. ..."
+  - type: input
+    id: device
+    attributes:
+      label: "Dispositivo / Device"
+      description: "Telemóvel e versão, ou navegador no computador. / Phone and version, or browser on a computer."
+      placeholder: "iPhone 14, iOS 18 · Samsung A52, Android 14 · Chrome"
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: "Imagens / Screenshots"
+      description: "Arraste capturas de ecrã para aqui. / Drag screenshots here."
+  - type: markdown
+    attributes:
+      value: "⚠️ Não inclua palavras-passe nem dados pessoais. Este espaço é público. / Do not include passwords or personal data. This space is public."
