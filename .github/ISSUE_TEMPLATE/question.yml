@@ -1,0 +1,10 @@
+name: "❓ Tenho uma dúvida / I have a question"
+description: "Faça uma pergunta sobre a plataforma / Ask a question about the platform"
+labels: ["question"]
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: "A sua pergunta / Your question"
+    validations:
+      required: true
