@@ -22,8 +22,8 @@ Não precisa de saber qual das partes está a falhar. Descreva o que viu e nós 
 
 ### Como reportar um problema
 
-1. **Veja se já foi reportado.** Use a pesquisa no separador **Issues** (também nos fechados, pode já estar resolvido).
-2. Clique em **New issue** (Novo issue). É necessária uma conta gratuita no GitHub.
+1. **Veja se já foi reportado.** Use a pesquisa no separador [**Issues**](https://github.com/bigbadpanda-tech/geota-questionarios/issues) (também nos fechados, pode já estar resolvido).
+2. Clique em [**New issue**](https://github.com/bigbadpanda-tech/geota-questionarios/issues/new/choose) (Novo issue). É necessária uma [conta gratuita no GitHub](https://github.com/signup).
 3. Escreva um **título curto** que resuma o problema (ex.: *"A app fecha ao guardar o questionário"*).
 4. Responda, tanto quanto souber, a estas perguntas:
    - **Onde aconteceu?** App móvel, dashboard ou não sei.
@@ -37,7 +37,7 @@ Não precisa de saber qual das partes está a falhar. Descreva o que viu e nós 
 
 ### Como sugerir uma melhoria
 
-Abra um novo issue e conte-nos:
+[Abra um novo issue](https://github.com/bigbadpanda-tech/geota-questionarios/issues/new/choose) e conte-nos:
 
 - **Onde** gostaria da melhoria (app móvel ou dashboard)
 - **Que dificuldade** sente hoje
@@ -45,7 +45,7 @@ Abra um novo issue e conte-nos:
 
 ### Tenho uma dúvida
 
-Também pode abrir um issue com a sua pergunta. Pode ser que ajude outras pessoas com a mesma dúvida.
+Também pode [abrir um issue](https://github.com/bigbadpanda-tech/geota-questionarios/issues/new/choose) com a sua pergunta. Pode ser que ajude outras pessoas com a mesma dúvida.
 
 ### O que acontece a seguir?
 
@@ -79,8 +79,8 @@ You don't need to know which part is failing. Just describe what you saw and we'
 
 ### How to report a problem
 
-1. **Check whether it was already reported.** Use the search in the **Issues** tab (closed ones too, it may already be fixed).
-2. Click **New issue**. A free GitHub account is required.
+1. **Check whether it was already reported.** Use the search in the [**Issues**](https://github.com/bigbadpanda-tech/geota-questionarios/issues) tab (closed ones too, it may already be fixed).
+2. Click [**New issue**](https://github.com/bigbadpanda-tech/geota-questionarios/issues/new/choose). A [free GitHub account](https://github.com/signup) is required.
 3. Write a **short title** summarising the problem (e.g. *"The app closes when I save the questionnaire"*).
 4. Answer these questions as best you can:
    - **Where did it happen?** Mobile app, dashboard, or not sure.
@@ -94,7 +94,7 @@ You don't need to know which part is failing. Just describe what you saw and we'
 
 ### How to suggest an improvement
 
-Open a new issue and tell us:
+[Open a new issue](https://github.com/bigbadpanda-tech/geota-questionarios/issues/new/choose) and tell us:
 
 - **Where** you would like the improvement (mobile app or dashboard)
 - **What difficulty** you face today
@@ -102,7 +102,7 @@ Open a new issue and tell us:
 
 ### I have a question
 
-You can also open an issue with your question. It may help others with the same doubt.
+You can also [open an issue](https://github.com/bigbadpanda-tech/geota-questionarios/issues/new/choose) with your question. It may help others with the same doubt.
 
 ### What happens next?
 
