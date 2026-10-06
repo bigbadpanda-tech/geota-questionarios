@@ -1,0 +1,29 @@
+name: "💡 Sugerir uma melhoria / Suggest an improvement"
+description: "Tem uma ideia para melhorar a plataforma / You have an idea to improve the platform"
+labels: ["enhancement"]
+body:
+  - type: dropdown
+    id: component
+    attributes:
+      label: "Onde gostaria da melhoria? / Where would you like the improvement?"
+      options:
+        - "App móvel / Mobile app"
+        - "Dashboard"
+        - "Não sei / Not sure"
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: "Que dificuldade sente hoje? / What difficulty do you face today?"
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: "Como imagina que poderia funcionar? / How do you imagine it could work?"
+  - type: textarea
+    id: extra
+    attributes:
+      label: "Imagens ou exemplos / Images or examples"
+      description: "Opcional. / Optional."
